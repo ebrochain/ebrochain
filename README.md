@@ -1,6 +1,5 @@
 ## Go Ebro
 
-Official Golang execution layer implementation of the Ethereum protocol.
 
 
 ## Building the source
